@@ -118,6 +118,7 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 *Libraries and implementations for working with files and directories.*
 
 * [dir_walker](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
+* [radpath](https://github.com/lowks/Radpath) - A path library for Elixir inspired by Python path libraries.
 
 ## Framework Components
 *Standalone component from web development frameworks.*
@@ -186,7 +187,6 @@ A curated list of amazingly awesome Elixir libraries, resources and shiny thing 
 * [funnel](https://github.com/AF83/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
 * [mdef](https://github.com/pragdave/mdef) - Easily define multiple function heads in elixir.
 * [porcelain](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
-* [radpath](https://github.com/lowks/Radpath) - A path library for Elixir inspired by Python path libraries.
 * [reprise](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 * [spawndir](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
